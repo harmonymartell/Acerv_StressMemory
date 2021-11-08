@@ -1,4 +1,4 @@
-# Acerv_StressMemory
+# Thermal Priming and Hormesis in the Staghorn Coral Acropora cervicornis (Lamarck 1812)
 
 stressmemoryrevisedDec2020.R is a script that uses the *.csv datafiles to analyse the data and make the figures.
 
