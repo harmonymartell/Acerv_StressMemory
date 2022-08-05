@@ -1,4 +1,4 @@
-# Thermal Priming and Hormesis in the Staghorn Coral Acropora cervicornis (Lamarck 1812)
+# Thermal Priming and Bleaching Hormesis in the Staghorn Coral <i>Acropora cervicornis</i> (Lamarck 1812)
 
 stressMemory.R is a script that uses the *.csv datafiles to analyse the data and make the figures.
 
